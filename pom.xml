@@ -41,9 +41,9 @@
    <distributionManagement>
      <repository>
        <!--必须与 settings.xml 的 id 一致-->
-       <id>maven2-demo2</id>
-       <name>maven2-demo2</name>
-       <url>http://nexus:8081/repository/maven2-demo2</url>
+       <id>maven2-demo1</id>
+       <name>maven2-demo1</name>
+       <url>http://nexus:8081/repository/maven2-demo1</url>
      </repository>
    </distributionManagement>
 </project>
